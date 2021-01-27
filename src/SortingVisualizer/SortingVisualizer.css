@@ -1,0 +1,17 @@
+.bar_container{
+    left : 200 px ;
+    height: 1000px;
+    background-color:rgb(42, 45, 48);
+}
+.bar{
+    width : 2px ;
+    background-color:rgb(17, 30, 179);
+    display: inline-block;
+    margin: 0 1px;
+}
+.btn{
+    display: inline-block;
+    height:30px;
+    background-color:rgb(33, 168, 40);
+    margin-right: 20px;
+}
